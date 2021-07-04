@@ -1,5 +1,6 @@
 # Neural_Nets_NTUA
 ==
+
 Projects in Python for Neural Networks and Intelligent Systems course in NTUA.
 
 * 1st exercise: Supervised learning.
