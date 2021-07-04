@@ -1,4 +1,4 @@
-# Neural_Nets_NTUA
+# Neural Networks NTUA
 
 Projects in Python for Neural Networks and Intelligent Systems course in NTUA.
 
